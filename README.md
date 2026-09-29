@@ -89,10 +89,11 @@ Goal| Progress
 
 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kazimatish&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kazimatish&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>---
+<p align="center"><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Kazimatish&show_icons=true&theme=tokyonight&hide_border=true" height="170"/><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Kazimatish&layout=compact&theme=tokyonight&hide_border=true" height="170"/></p>🔥 Contribution Streak
+
+<p align="center"><img src="https://streak-stats.demolab.com?user=Kazimatish&theme=tokyonight&hide_border=true" /></p>
+
+
 
 🐍 My Contribution Journey
 
