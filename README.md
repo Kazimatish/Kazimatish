@@ -86,12 +86,21 @@ Goal| Progress
 💼 Build Strong Portfolio| 🔄 Building
 
 ---
+## 📈 GitHub Journey
 
-📊 GitHub Stats
+<p align="center">
 
-<p align="center"><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Kazimatish&show_icons=true&theme=tokyonight&hide_border=true" height="170"/><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Kazimatish&layout=compact&theme=tokyonight&hide_border=true" height="170"/></p>🔥 Contribution Streak
+<img src="https://streak-stats.demolab.com?user=Kazimatish&theme=tokyonight&hide_border=true" />
 
-<p align="center"><img src="https://streak-stats.demolab.com?user=Kazimatish&theme=tokyonight&hide_border=true" /></p>
+</p>
+
+<br>
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kazimatish&theme=tokyo-night&hide_border=true&area=true" />
+
+</p>
 
 
 
