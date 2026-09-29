@@ -85,7 +85,35 @@ Goal| Progress
 🚀 Build AI Projects| ⏳ Next
 💼 Build Strong Portfolio| 🔄 Building
 
+
+
+
+# 🚀 Featured Project
+
+## 🥜 Dry Fruits Website
+
+A responsive website created for a dry-fruits business using:
+
+**HTML • CSS • JavaScript**
+
+### ✨ Project Highlights
+
+- 📱 Responsive design
+- 🎨 Modern user interface
+- 🧭 Simple navigation
+- 💻 Front-end development
+- ⚡ JavaScript interactions
+
+### 🌐 Live Website
+
+👉 https://dry-fruits-ashy.vercel.app/
+
+### 💻 Source Code
+
+👉 https://github.com/Kazimatish/Dry-Fruits
+
 ---
+
 ## 📈 GitHub Journey
 
 <p align="center">
