@@ -1,117 +1,121 @@
+<!-- HEADER --><p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Abdul%20Kalam&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+</p><!-- TYPING ANIMATION --><p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=667EEA&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Abdul+Kalam+%F0%9F%91%8B;Computer+Science+Student+%F0%9F%92%BB;Python+Developer+in+Progress+%F0%9F%90%8D;Exploring+Artificial+Intelligence+%F0%9F%A4%96;Building+Projects+%7C+Learning+Every+Day+%F0%9F%9A%80" />
+</p><p align="center">
+  <b>Computer Science Student • Python • AI/ML • Web Development</b>
+</p>---
 
-👋 Hi, I'm Abdul Kalam
+🧑‍💻 About Me
 
-💻 Computer Science Student | Python Learner | Aspiring AI Engineer
+class AbdulKalam:
 
-I'm a Computer Science student passionate about software development, Python, Artificial Intelligence, and Machine Learning.
+    role = "Computer Science Student"
 
-I enjoy building practical projects, learning new technologies, and improving my problem-solving skills through hands-on development.
+    interests = [
+        "Python",
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Web Development",
+        "Automation"
+    ]
 
----
+    currently_learning = [
+        "Advanced Python",
+        "NumPy & Pandas",
+        "Machine Learning",
+        "Deep Learning"
+    ]
 
-🚀 About Me
-
-- 🎓 Computer Science Student
-- 🐍 Currently learning Python
-- 🤖 Exploring Artificial Intelligence & Machine Learning
-- 🌐 Building websites and web projects
-- 🔧 Learning Git & GitHub
-- 📚 Interested in Python automation and AI development
-- 🎯 Goal: Build real-world software and AI projects
-
----
-
-🛠️ Technologies & Skills
-
-Programming & Development
-
-- Python
-- HTML5
-- CSS3
-- JavaScript
-- C#
-
-Python & Data
-
-- NumPy
-- Pandas
-- Jupyter Notebook
-
-Tools
-
-- Git
-- GitHub
-- VS Code
-
-Currently Learning
-
-- Artificial Intelligence
-- Machine Learning
-- Deep Learning
-- Python Automation
+    goal = "Become an AI Engineer 🚀"
 
 ---
 
-📌 Featured Projects
+⚡ Tech Stack
 
-🥜 Dry Fruits Website
+<p align="center"><img src="https://skillicons.dev/icons?i=python,html,css,js,cs,numpy,pandas,git,github,vscode" /></p>---
 
-A responsive website created for a dry fruits business using HTML, CSS, and JavaScript.
+🚀 Featured Project
 
-Technologies: HTML • CSS • JavaScript
+<p align="center">
+  <a href="https://github.com/Kazimatish/Dry-Fruits">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kazimatish&repo=Dry-Fruits&theme=tokyonight&hide_border=true"/>
+  </a>
+</p>🥜 Dry Fruits Website
 
-🌐 Live Demo:
+A responsive business website built using:
+
+"HTML" "CSS" "JavaScript"
+
+🌐 Live Website:
 https://dry-fruits-ashy.vercel.app/
 
-💻 Repository:
+💻 Source Code:
 https://github.com/Kazimatish/Dry-Fruits
 
 ---
 
-📚 What I'm Working On
+🔭 Currently Learning
 
-I'm currently focusing on:
+<p align="center"><img src="https://skillicons.dev/icons?i=python" width="60"/>➡️
 
-Python
-   ↓
-Advanced Python
-   ↓
-NumPy & Pandas
-   ↓
-Machine Learning
-   ↓
-Deep Learning
-   ↓
-AI Projects
-   ↓
-AI Engineering
+<img src="https://skillicons.dev/icons?i=numpy" width="60"/>➡️
 
-My goal is to continuously build projects while developing strong programming and problem-solving skills.
+<img src="https://skillicons.dev/icons?i=pandas" width="60"/>➡️
 
----
+🤖 Machine Learning
 
-📈 My Development Journey
+➡️
 
-I believe the best way to learn programming is by building projects.
+🧠 Deep Learning
 
-I'm working toward creating projects that demonstrate:
+➡️
 
-- Problem-solving
-- Clean and maintainable code
-- Real-world applications
-- Data processing
-- Automation
-- AI/ML capabilities
+🚀 AI Engineering
+
+</p>---
+
+🎯 2026 Goals
+
+Goal| Progress
+🐍 Master Python| 🔄 Learning
+📊 Learn NumPy & Pandas| 🔄 Learning
+🤖 Machine Learning| ⏳ Next
+🧠 Deep Learning| ⏳ Next
+🚀 Build AI Projects| ⏳ Next
+💼 Build Strong Portfolio| 🔄 Building
 
 ---
 
-🤝 Let's Connect
+📊 GitHub Stats
 
-I'm always interested in learning, collaborating, and connecting with other developers and students.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kazimatish&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kazimatish&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>---
 
-GitHub:
-https://github.com/Kazimatish
+🐍 My Contribution Journey
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation"/>
+</p>---
 
-⭐ If you find any of my projects useful, feel free to explore the repository and leave a star!
+💭 Developer Mindset
+
+<p align="center">
+  <i>
+    "Learn something every day.<br>
+    Build something every week.<br>
+    Become better every year."
+  </i>
+</p>---
+
+🤝 Connect With Me
+
+<p align="center"><a href="https://github.com/Kazimatish">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a></p>---
+
+<p align="center">⭐ Thanks for visiting my profile!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=100&section=footer"/></p>
